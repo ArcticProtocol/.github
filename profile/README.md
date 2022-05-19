@@ -33,4 +33,5 @@ We definitely need all the help in the world to move this warship in the right d
 - Web Wizard 🧙🏻‍♂️
 - Infrasturcture Cyborg 🦾
 - Community Warrior 🤺
+- Desinger Pilot ✈️ 
 - Machine Learning Samurai 🗡
