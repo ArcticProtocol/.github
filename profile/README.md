@@ -6,8 +6,8 @@
 
 
 
-The Earth Protocol aims to become the world's largest consumer product and tooling platform for all solutions required to solve the climate and other cirsis on Earth by using the latest cutting edge technology such as Machine learning and Blockchain. 
-We hope to colloborate, coordinate and help the biggest organizations working towards the same cause and make a positive impact on every corner of the earth.
+The Earth Protocol aims to become the world's largest consumer product and tooling platform for all solutions required to solve climate and other cirsis on Earth by using the latest cutting edge technology such as Machine learning and Blockchain. 
+We hope to colloborate, coordinate and help the biggest organizations working towards the same cause make a positive impact on every corner of the earth.
 
 
 ****
