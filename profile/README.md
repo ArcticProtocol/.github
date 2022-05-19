@@ -11,14 +11,14 @@ We hope to colloborate, coordinate and help the biggest organizations working to
 
 
 ****
-The Earth protocol will monitor, analzye, and provide transparent solutions for increasing risks of climate and natural disasters, build an incentivzed mechanism to reward the citizens who take greener actions, the community that helps in contirbuting towards building this ecosytem and any member that helps drive the cause.
+The Earth protocol will monitor, analzye, and provide transparent solutions for increasing risks of climate and natural disasters, build an incentivzed mechanism to reward the citizens who take greener actions, reward the community that helps in contributing towards building the ecosystem and every member that helps drive the cause.
 
 
 
 ## **Sustain**
 
-Sustain is a flagship proudct app built provide answers to one question, **how sustainble are your habits?** Sustain aims to be the forefront of consumer facing products for helping impact the reversal of climate change.
-It aims to provide product solutions around habits, reducing carbon footprint, providing optionis to buy negative carbon footprint proudcts and services and help offset carbon emission using carbon credit offsets.
+Sustain is a flagship product built to provide answers to one question, **how sustainble are your habits?** Sustain aims to be the forefront of consumer facing products for helping impact the reversal of climate change.
+It aims to provide product solutions around habits, reducing carbon footprint, providing options to buy negative carbon footprint proudcts and services, and help offset carbon emission using carbon credit.
 
 
 # Community 
